@@ -1,0 +1,9 @@
+
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo "Hello from AWS CodeBuild"
+      - echo "My CI practical is working"
+      - echo "Build completed successfully"
